@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<module type="JAVA_MODULE" version="4">
+  <component name="NewModuleRootManager" inherit-compiler-output="true">
+    <exclude-output />
+    <content url="file://$MODULE_DIR$">
+      <sourceFolder url="file://$MODULE_DIR$/src" isTestSource="false" />
+    </content>
+    <orderEntry type="inheritedJdk" />
+    <orderEntry type="sourceFolder" forTests="false" />
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/ExternalLibrary/selenium/byte-buddy-1.8.15.jar!/" />
+          <root url="jar://$MODULE_DIR$/ExternalLibrary/selenium/client-combined-3.141.59.jar!/" />
+          <root url="jar://$MODULE_DIR$/ExternalLibrary/selenium/commons-exec-1.3.jar!/" />
+          <root url="jar://$MODULE_DIR$/ExternalLibrary/selenium/guava-25.0-jre.jar!/" />
+          <root url="jar://$MODULE_DIR$/ExternalLibrary/selenium/jcommander-1.27.jar!/" />
+          <root url="jar://$MODULE_DIR$/ExternalLibrary/selenium/okhttp-3.11.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/ExternalLibrary/selenium/okio-1.14.0.jar!/" />
+          <root url="jar://$MODULE_DIR$/ExternalLibrary/selenium/selenium-server-standalone-3.141.59.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES>
+          <root url="jar://$MODULE_DIR$/ExternalLibrary/selenium/client-combined-3.141.59-sources.jar!/" />
+        </SOURCES>
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="jar://$MODULE_DIR$/ExternalLibrary/testing/testng-7.0.0.jar!/" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/BrowserDriver/mac/chromedriver" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/BrowserDriver/mac/geckodriver" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/BrowserDriver/windows/chromedriver.exe" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/BrowserDriver/windows/geckodriver.exe" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/BrowserDriver/windows/IEDriverServer.exe" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/BrowserDriver/windows/msedgedriver.exe" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+  </component>
+</module>
