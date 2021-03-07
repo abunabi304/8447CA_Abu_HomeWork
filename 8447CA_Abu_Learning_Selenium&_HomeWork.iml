@@ -37,15 +37,6 @@
     <orderEntry type="module-library">
       <library>
         <CLASSES>
-          <root url="file://$MODULE_DIR$/BrowserDriver/mac/chromedriver" />
-        </CLASSES>
-        <JAVADOC />
-        <SOURCES />
-      </library>
-    </orderEntry>
-    <orderEntry type="module-library">
-      <library>
-        <CLASSES>
           <root url="file://$MODULE_DIR$/BrowserDriver/mac/geckodriver" />
         </CLASSES>
         <JAVADOC />
@@ -83,6 +74,15 @@
       <library>
         <CLASSES>
           <root url="file://$MODULE_DIR$/BrowserDriver/windows/msedgedriver.exe" />
+        </CLASSES>
+        <JAVADOC />
+        <SOURCES />
+      </library>
+    </orderEntry>
+    <orderEntry type="module-library">
+      <library>
+        <CLASSES>
+          <root url="file://$MODULE_DIR$/BrowserDriver/mac/chromedriver" />
         </CLASSES>
         <JAVADOC />
         <SOURCES />
